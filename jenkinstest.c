@@ -30,6 +30,6 @@ THE SOFTWARE.
 #include <stdio.h>
 
 int main(int argc, const char *argv[]) {
-  printf("Hello, world again!\n");
+  printf("Hello, again!\n");
   return 0;
 }
